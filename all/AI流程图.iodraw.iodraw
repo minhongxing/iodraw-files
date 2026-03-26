@@ -60,7 +60,7 @@
         <mxCell id="2Vhghe4BOQfe3qClgMPq-18" value="执行合同&#xa;架构员制定&#xa;普适规则" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="78" y="632" width="140" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="2Vhghe4BOQfe3qClgMPq-19" value="Plan-&amp;gt;Execute&#xa;可自动化&#xa;夜间执行" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="2Vhghe4BOQfe3qClgMPq-19" value="Plan-Execute&#xa;可自动化&#xa;夜间执行" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="55" y="815" width="185" height="84" as="geometry" />
         </mxCell>
         <mxCell id="2Vhghe4BOQfe3qClgMPq-20" value="AI生成&#xa;人审核核心&#xa;单元测试" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
