@@ -31,7 +31,7 @@
         <mxCell id="2Vhghe4BOQfe3qClgMPq-9" value="② 任务拆分" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="39" y="239" width="217" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="2Vhghe4BOQfe3qClgMPq-10" value="① 需求阶段" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="2Vhghe4BOQfe3qClgMPq-10" value="① 需求阶段&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;rounded=1;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="43" y="20" width="210" height="169" as="geometry" />
         </mxCell>
         <mxCell id="2Vhghe4BOQfe3qClgMPq-11" value="AI驱动的智能研发流水线" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;labelBackgroundColor=none;rounded=1;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
